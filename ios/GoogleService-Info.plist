@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>401158965902-eqj2ve55gm11in4jc7250pkfhpbc26fc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.401158965902-eqj2ve55gm11in4jc7250pkfhpbc26fc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCfCKMoYCLUmIkWElMA7snOLdjhKh1Zb0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>401158965902</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.hydroapp</string>
+	<key>PROJECT_ID</key>
+	<string>hydroapp-230c0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hydroapp-230c0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:401158965902:ios:d66bd27ba014a2795f17df</string>
+</dict>
+</plist>
